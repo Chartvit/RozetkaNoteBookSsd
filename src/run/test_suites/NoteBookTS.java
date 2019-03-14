@@ -34,7 +34,7 @@ public class NoteBookTS
 	@Severity(SeverityLevel.CRITICAL)
 	@Description("Choose NoteBook with SSD and assert output data")
 	@Test(dataProvider = "noteBookSsdData", priority = 1, enabled = true)
-	public void indexRegistrationTest(Integer p_numberOfNotebooks)
+	public void chooseNoteBookWithSsd(Integer p_numberOfNotebooks)
 	{
 		test.chooseNoteBookWithSsd(p_numberOfNotebooks);
 	}

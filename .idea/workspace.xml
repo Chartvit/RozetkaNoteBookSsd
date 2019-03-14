@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6abcf30a-f385-44ad-9689-274c3a79dd9d" name="Default Changelist" comment="" />
+    <list default="true" id="6abcf30a-f385-44ad-9689-274c3a79dd9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1002d441-edfa-423a-add0-f277e6c4b819-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/13f85697-aab8-40e6-a6d3-e41b326df266-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1cac476c-5955-4a2c-a26f-527bef2743f6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/25a8d4e4-244d-464c-85f8-d0cde04fa562-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7671f2ff-b521-4092-ae91-665494b12d05-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/813158b6-f8a7-4224-a8de-97fefd7d9462-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/93fe8310-d61e-4dce-a683-e07fa66da24a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/95862c1e-a0fe-40d3-923c-64248afd44b3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a617cbc0-ed31-4800-aa33-04aa8a94aa5f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f3a194fc-9a08-45ff-b96d-d021c335df5e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f8a8013c-1c02-492a-a835-89f0ece49f3b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fed96c06-9773-4226-be45-9e01a9a2bc08-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/noteBook.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/run/noteBook.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +32,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="332">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#695#696#0" expanded="true" />
                 <element signature="e#731#732#0" expanded="true" />
                 <element signature="e#774#775#0" expanded="true" />
                 <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,20 +71,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/run/page_objects/NoteBookPageBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="306">
               <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/run/locators/NoteBookLocatorsBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -82,26 +92,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/run/DriverHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="17">
               <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/run/resources/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/run/noteBook.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="178" column="12" selection-start-line="178" selection-start-column="12" selection-end-line="178" selection-end-column="12" />
+            <state relative-caret-position="136">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/run/noteBook.xml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -143,6 +153,9 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,14 +202,15 @@
         <option value="$PROJECT_DIR$/src/run/LogCustomLayout.java" />
         <option value="$PROJECT_DIR$/target/logs/httpClient.log" />
         <option value="$PROJECT_DIR$/src/run/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/run/noteBook.xml" />
         <option value="$PROJECT_DIR$/src/run/locators/NoteBookLocatorsBase.java" />
         <option value="$PROJECT_DIR$/src/run/page_objects/NoteBookPageBase.java" />
         <option value="$PROJECT_DIR$/src/run/test_objects/NoteBookDataProviders.java" />
-        <option value="$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java" />
         <option value="$PROJECT_DIR$/src/run/test_objects/NoteBookTestsBase.java" />
         <option value="$PROJECT_DIR$/src/run/DriverHelper.java" />
         <option value="$PROJECT_DIR$/src/run/resources/pom.xml" />
+        <option value="$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java" />
+        <option value="$PROJECT_DIR$/src/run/noteBook.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -227,6 +241,7 @@
     <option name="width" value="1861" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,6 +253,11 @@
             <path>
               <item name="noteBookSsdRozetka" type="b2602c69:ProjectViewProjectNode" />
               <item name="noteBookSsdRozetka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="noteBookSsdRozetka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noteBookSsdRozetka" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="noteBookSsdRozetka" type="b2602c69:ProjectViewProjectNode" />
@@ -258,7 +278,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/run/resources/log4j.properties" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552604010418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552604847644" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -439,9 +459,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_home_artur_IdeaProjects_noteBookSsdRozetka_src_run_noteBook_xml - 2019.03.14 at 23h 14m 55s.xml">
-      <configuration name="/home/artur/IdeaProjects/noteBookSsdRozetka/src/run/noteBook.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_home_artur_IdeaProjects_noteBookSsdRozetka_src_run_noteBook_xml - 2019.03.14 at 23h 40m 04s.xml">
       <configuration name="/home/artur/IdeaProjects/noteBookSsdRozetka/src/run/noteBook.xml" configurationId="TestNG" />
     </history-entry>
@@ -469,6 +486,9 @@
     <history-entry file="_home_artur_IdeaProjects_noteBookSsdRozetka_src_run_noteBook_xml - 2019.03.15 at 00h 50m 02s.xml">
       <configuration name="/home/artur/IdeaProjects/noteBookSsdRozetka/src/run/noteBook.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_home_artur_IdeaProjects_noteBookSsdRozetka_src_run_noteBook_xml - 2019.03.15 at 01h 02m 58s.xml">
+      <configuration name="/home/artur/IdeaProjects/noteBookSsdRozetka/src/run/noteBook.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,8 +501,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2885354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2885354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -491,14 +512,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39870688" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39848813" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3911638" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39200863" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3739224" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -602,7 +623,6 @@ System.out.println(page.getTextComparingData(p_numberOfNotebooks-1).get(i));</ex
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/run/PhoenixManager.java" />
     <entry file="file://$PROJECT_DIR$/src/run/ApplicationManager.java" />
     <entry file="file://$PROJECT_DIR$/src/run/helpers/LoggerHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/run/sys/MonthsYear.java" />
@@ -734,20 +754,6 @@ System.out.println(page.getTextComparingData(p_numberOfNotebooks-1).get(i));</ex
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/run/test_objects/NoteBookDataProviders.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -765,12 +771,32 @@ System.out.println(page.getTextComparingData(p_numberOfNotebooks-1).get(i));</ex
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/run/page_objects/NoteBookPageBase.java">
+    <entry file="file://$PROJECT_DIR$/src/run/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="102">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/test_suites/NoteBookTS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -782,24 +808,13 @@ System.out.println(page.getTextComparingData(p_numberOfNotebooks-1).get(i));</ex
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/run/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/run/page_objects/NoteBookPageBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/run/DriverHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/run/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -810,10 +825,24 @@ System.out.println(page.getTextComparingData(p_numberOfNotebooks-1).get(i));</ex
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/DriverHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/run/noteBook.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>

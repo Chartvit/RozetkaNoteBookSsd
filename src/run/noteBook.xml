@@ -6,7 +6,7 @@
         <classes>
             <class name="run.test_suites.NoteBookTS">
                 <methods>
-                    <include name="indexRegistrationTest"/>
+                    <include name="chooseNoteBookWithSsd"/>
                 </methods>
             </class>
         </classes>
