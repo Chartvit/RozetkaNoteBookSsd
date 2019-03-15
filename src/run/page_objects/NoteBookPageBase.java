@@ -82,13 +82,6 @@ public class NoteBookPageBase
 	}
 
 	@Step("Get text data of each parameter")
-	public String getParameterData(Integer p_numberOfNotebooks)
-	{
-		wd.waitForPresence(locators.comparingItemOfTheGood(p_numberOfNotebooks));
-		return wd.getText(locators.comparingItemOfTheGood(p_numberOfNotebooks),"Get text data of each parameter");
-	}
-
-	@Step("Get text data of each parameter")
 	public List<String> getTextComparingData(Integer p_numberOfNotebooks)
 	{
 		wd.waitForPresence(locators.listOfTheComparingItems);

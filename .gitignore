@@ -1,0 +1,13 @@
+/target/*
+.idea/workspace.xml
+.idea/*
+.idea
+/.idea
+allure-results/*
+allure-report/data/attachments/
+allure-report/data/test-cases/
+allure-report/plugins/junit/
+allure-report/plugins/trx/
+allure-report/plugins/xctest/
+allure-report/plugins/xunit-xml/
+config/
